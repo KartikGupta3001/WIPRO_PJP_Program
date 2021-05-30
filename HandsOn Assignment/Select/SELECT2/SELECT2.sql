@@ -1,1 +1,0 @@
-select employee_id,last_name, job_ID, hire_date as start_date from employees;
